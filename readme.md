@@ -1,0 +1,2 @@
+- Template scaffold: `npm create vite@latest rtl-bonnie -- --template react-ts`
+- The [course](https://www.udemy.com/course/react-testing-library)
