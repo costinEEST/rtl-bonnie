@@ -1,0 +1,1 @@
+- Template scaffold: `npm create vite@latest rtl-bonnie -- --template react-ts`

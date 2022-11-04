@@ -1,2 +1,4 @@
-- Template scaffold: `npm create vite@latest rtl-bonnie -- --template react-ts`
-- The [course](https://www.udemy.com/course/react-testing-library)
+- [Notes](napkin.md)
+- Other courses from [Bonnie](https://www.udemy.com/user/bonnie-schulkin)
+- Differences:
+  - use `vite` instead of `create-react-app` to scaffold the project 
