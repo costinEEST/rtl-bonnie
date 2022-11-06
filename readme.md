@@ -1,4 +1,4 @@
 - [Notes](napkin.md)
 - Other courses from [Bonnie](https://www.udemy.com/user/bonnie-schulkin)
-- Differences:
+- Changes:
   - use `vite` instead of `create-react-app` to scaffold the project 
