@@ -1,4 +1,5 @@
 - [Notes](napkin.md)
+- [Repo](https://github.com/bonnie/udemy-TESTING-LIBRARY/tree/main/react-code)
 - Other courses from [Bonnie](https://www.udemy.com/user/bonnie-schulkin)
 - Changes:
   - use `vite` instead of `create-react-app` to scaffold the project 
